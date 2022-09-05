@@ -33,7 +33,6 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "Ha7WhPNPk6x8uf7Q8dT3Z2356njTPqSVzP0eu4Vhtu0",
       // 所在省份
-      province: "北京市",
       // 所在城市
       city: "北京",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
@@ -65,7 +64,6 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "北京市",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
   CITY: "北京",
 
